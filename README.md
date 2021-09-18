@@ -7,7 +7,8 @@ Memprediksi puas/tidak puas
 Terbagi 2 notebook:
 
 # (1)data analysis with python
-                   
+https://github.com/sultanbst123/satisfaction-prediction-/blob/main/Satisfaction%20prediction.ipynb       
+            
 # (2)data modeling with python
 
 
